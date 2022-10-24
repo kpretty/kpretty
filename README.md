@@ -1,6 +1,6 @@
 # Hi 👋 Kpretty here.
 
-- 👨‍💻‍ Big Data Development Engineer, Blockchain Development Engineer
+- 💻 Big Data Development Engineer, Blockchain Development Engineer
 - 🙋 Youth in ordinary society
 - 📝 Use Java、Rust、Python backend, No it won't frontend
 - 🌟 Make something to improve my life
