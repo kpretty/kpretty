@@ -28,46 +28,6 @@
 ![skills](https://skillicons.dev/icons?i=bash,gcp,gradle,docker,idea,solidity,jenkins,git,github,html,maven,linux,md,mongodb,mysql,nginx,ps,postgres,linkedin,kubernetes,py,raspberrypi,java,redis,regex,prometheus,stackoverflow,rust,go,vscode,matlab,scala,graphql)
 
 
-<!-- 比较好的开源项目卡片 -->
-
-<div align="center">
-<a href="https://github.com/apache/flink">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=flink&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/datahub-project/datahub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datahub-project&repo=datahub&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
-<br/>
 
 
-# 🚀 Actions
-
-<!-- 连续提交代码天数记录 -->
-
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kpretty&theme=dark&hide_border=true" />
-</div>
-<br/>
-
-<!-- GitHub奖杯🏆 -->
-
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=kpretty&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
-
-<br>
-
-<!-- GitHub数据统计 -->
-
-<div align="center">
-  <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpretty&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-
-<br>
-
-<!-- GitHub Activity Graph -->
-
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=kpretty&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kpretty&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=900)](https://github.com/kpretty?tab=repositories)
