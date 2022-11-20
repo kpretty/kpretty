@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;小王同学每天都要快乐呀!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;小王每天都要快乐呀!&center=true&size=27">
   </a>
 </h1>
 <br/>
