@@ -11,8 +11,8 @@
 
 <p>✍️&nbsp;&nbsp;大家好，我是小王! 目前就职于杭州某互联网公司，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
+<!-- <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p> -->
+<!-- <p>&emsp;&emsp;春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p> -->
 <hr/>
 🚪 追求
 <ol>
