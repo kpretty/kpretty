@@ -32,5 +32,5 @@
 
 ## Currently working on
 
-[![Currently working on](https://kpretty.vercel.app/widgets/db%2Fsql-1686650509966/thumbnail.png)](https://kpretty.vercel.app/widgets/db%2Fsql-1686650509966)
+[![Currently working on](https://kpretty.vercel.app/widgets/db%2Fsql-1686650509966/thumbnail.png)](https://kpretty.vercel.app)
 
