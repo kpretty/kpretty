@@ -28,9 +28,3 @@
 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kpretty&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=900)](https://github.com/kpretty?tab=repositories)
-
-
-## Currently working on
-
-[![Currently working on](https://kpretty.vercel.app/widgets/db%2Fsql-1686650509966/thumbnail.png)](https://kpretty.vercel.app)
-
