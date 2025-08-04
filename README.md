@@ -14,7 +14,10 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
 
-<p>💻个人博客，欢迎访问，<a hfre="https://blog.kpretty.tech">点击前往</a>💻</p>
+<p>💻个人博客，欢迎访问💻</p>
+
+[点击前往](https://blog.kpretty.tech)
+
 <hr/>
 🚪 追求
 <ol>
